@@ -1,0 +1,3 @@
+request_uri.get
+
+requisicao = request.urlopen
